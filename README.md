@@ -26,7 +26,7 @@ Feel free to explore the different sections of the portfolio. Each section provi
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](License) file for more details.
 
 ---
 
